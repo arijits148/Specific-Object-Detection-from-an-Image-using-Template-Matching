@@ -1,1 +1,1 @@
-# Specific-Object-Recognition-in-an-Image-using-OpenCV
+# Specific Object Recognition in an image using OpenCV
