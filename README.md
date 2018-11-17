@@ -1,1 +1,1 @@
-# Specific Object Recognition in an image using OpenCV
+# Specific Object Detection from an image using Template Matching
